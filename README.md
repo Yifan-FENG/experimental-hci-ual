@@ -7,9 +7,9 @@ Designing a Study Planning AI Bot for Online Creative Tech Education
 As online education gains increasing popularity among higher education institutions, educators become more interested in exploring methods to enhance the study experience for online learners. The study focuses on how to improve student study planning skills in their online learning processes through the use of a chatbot embedded in a social media platform.
 
 ## Academic Report
-- [Research Report](https://github.com/Yifan-FENG/experimental-hci-ual/blob/main/Research%20Report.pdf)
-- [Research Proposal]()
 
+- [Research Proposal](https://github.com/Yifan-FENG/experimental-hci-ual/blob/main/Research%20Proposal%20.pdf)
+- [Research Report](https://github.com/Yifan-FENG/experimental-hci-ual/blob/main/Research%20Report.pdf)
 
 
 ## Reference
